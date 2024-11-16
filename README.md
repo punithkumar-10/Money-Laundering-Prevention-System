@@ -7,9 +7,6 @@ This project, developed by N PUNITH KUMAR, aims to detect and prevent money laun
 ![image](https://github.com/user-attachments/assets/511b09b5-4886-41bb-acf6-747367c9031b)
 
 
-### Project Demo Video
-
-https://youtu.be/-ThKo-5LGio
 
 ### Usage
 
